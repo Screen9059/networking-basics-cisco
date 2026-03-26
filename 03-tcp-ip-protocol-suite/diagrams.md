@@ -22,3 +22,16 @@
 | TCP      | Transmission Control Protocol        | Reliable data transfer between devices        | Connection-oriented, error checking, ordered delivery | Slow but very reliable                   |
 | UDP      | User Datagram Protocol               | Fast data transfer without reliability checks | Connectionless, no error checking, unordered          | Very fast but unreliable                 |
 | SCTP     | Stream Control Transmission Protocol | Combines features of TCP and UDP              | Reliable, multi-streaming, multi-connection support   | More advanced, supports multiple streams |
+
+
+
+Layer 2
+
+| Protocol  | Meaning                            | Purpose (Easy)                        | Key Point                               |
+| --------- | ---------------------------------- | ------------------------------------- | --------------------------------------- |
+| IP (IPv4) | Internet Protocol version 4        | Gives devices an address              | Uses 32-bit address (e.g. 192.168.1.1)  |
+| IP (IPv6) | Internet Protocol version 6        | New version of IP with more addresses | Uses 128-bit address (very large range) |
+| ICMP      | Internet Control Message Protocol  | Sends error & status messages         | Used for ping (check connection)        |
+| IGMP      | Internet Group Management Protocol | Manages group communication           | Used for streaming (multicast)          |
+| IPsec     | Internet Protocol Security         | Secures IP communication              | Encrypts and protects data              |
+
