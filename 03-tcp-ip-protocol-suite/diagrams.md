@@ -1,4 +1,5 @@
 
+Layer 4 - Application Layer
 
 | Protocol | Full Form                          | Purpose / Meaning                                          | Common Use                                       |
 | -------- | ---------------------------------- | ---------------------------------------------------------- | ------------------------------------------------ |
@@ -13,7 +14,7 @@
 | IMAP     | Internet Message Access Protocol   | Syncs emails across devices (keeps on server)              | Modern email apps (Gmail, Outlook)               |
 
 
-
+Layer 3 - Transportation Layer
 
 
 
@@ -25,7 +26,7 @@
 
 
 
-Layer 2
+Layer 2 - Internet Layer
 
 | Protocol  | Meaning                            | Purpose (Easy)                        | Key Point                               |
 | --------- | ---------------------------------- | ------------------------------------- | --------------------------------------- |
