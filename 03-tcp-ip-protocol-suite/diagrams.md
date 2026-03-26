@@ -36,3 +36,12 @@ Layer 2 - Internet Layer
 | IGMP      | Internet Group Management Protocol | Manages group communication           | Used for streaming (multicast)          |
 | IPsec     | Internet Protocol Security         | Secures IP communication              | Encrypts and protects data              |
 
+
+Layer 1 - Network Layer
+
+| Protocol | Full Form                     | Purpose (Easy)                            | Key Point                                   |
+| -------- | ----------------------------- | ----------------------------------------- | ------------------------------------------- |
+| Ethernet | —                             | Connects devices in a local network (LAN) | Most common wired network                   |
+| PPP      | Point-to-Point Protocol       | Connects two devices directly             | Used in internet connections (dial-up, DSL) |
+| ARP      | Address Resolution Protocol   | Finds MAC address from IP address         | Links IP → physical address                 |
+| SLIP     | Serial Line Internet Protocol | Sends IP data over serial connections     | Older, replaced by PPP                      |
