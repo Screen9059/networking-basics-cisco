@@ -14,7 +14,7 @@ Layer 4 - Application Layer
 | IMAP     | Internet Message Access Protocol   | Syncs emails across devices (keeps on server)              | Modern email apps (Gmail, Outlook)               |
 
 
-Layer 3 - Transportation Layer
+Layer 3 - Transport Layer
 
 
 
