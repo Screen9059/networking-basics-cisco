@@ -55,3 +55,8 @@ Port Numbers
 | 443         | HTTPS    | Secure web browsing | Loads secure websites (encrypted) |
 | 22          | SSH      | Secure remote login | Access servers safely             |
 
+
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e848196-990f-47bf-aa7a-31079d9fa168" />
+
