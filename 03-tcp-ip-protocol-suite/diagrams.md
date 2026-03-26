@@ -44,4 +44,14 @@ Layer 1 - Network Layer
 | Ethernet | —                             | Connects devices in a local network (LAN) | Most common wired network                   |
 | PPP      | Point-to-Point Protocol       | Connects two devices directly             | Used in internet connections (dial-up, DSL) |
 | ARP      | Address Resolution Protocol   | Finds MAC address from IP address         | Links IP → physical address                 |
-| SLIP     | Serial Line Internet Protocol | Sends IP data over serial connections     | Older, replaced by PPP                      |
+| SLIP     | Serial Line Internet Protocol | Sends IP data over serial connections     | Older, replaced by PPP 
+
+
+Port Numbers 
+
+| Port Number | Protocol | Application (Easy)  | Purpose                           |
+| ----------- | -------- | ------------------- | --------------------------------- |
+| 80          | HTTP     | Web browsing        | Loads websites (not secure)       |
+| 443         | HTTPS    | Secure web browsing | Loads secure websites (encrypted) |
+| 22          | SSH      | Secure remote login | Access servers safely             |
+
